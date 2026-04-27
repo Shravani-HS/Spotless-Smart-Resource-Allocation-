@@ -44,14 +44,6 @@ Instead of simply collecting reports, the system identifies what needs attention
 
 ---
 
-## Demo
-
-<p align="center">
-  <img src="demo.gif" width="700"/>
-</p>
-
----
-
 ## Tech Stack
 
 * Frontend: Streamlit
